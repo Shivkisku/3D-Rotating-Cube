@@ -1,0 +1,8 @@
+.container {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center;     /* Center vertically */
+  height: 100vh;           /* Full viewport height */
+  margin: 0;
+  background-color: #090909; /* Optional: Background color for better visibility */
+}
